@@ -8,4 +8,4 @@ Working example can be found here: [Interactive Heatmap](http://icecube.wisc.edu
 ```bash
 $ python make_interactive_heatmap.py ######
 ```
-where "######" corresponds to the run number in a run######.h5 database created with the SCT toolkit
+where "######" corresponds to the run number in a run######.h5 database created with the [SCT toolkit](https://github.com/milesjwinter/SCT-toolkit)
